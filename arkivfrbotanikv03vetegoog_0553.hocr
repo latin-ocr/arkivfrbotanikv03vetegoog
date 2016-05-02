@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanikv03vetegoog_0553.png"; bbox 0 0 3063 4973; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 327 234 2645 295">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 327 234 2645 295">
+     <span class='ocr_line' id='line_1_1' title="bbox 327 234 2645 295; baseline -0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 327 239 501 295; x_wconf 76' lang='lat' dir='ltr'>Arkiv</span> <span class='ocrx_word' id='word_1_2' title='bbox 541 239 638 294; x_wconf 66' lang='lat' dir='ltr'>fbf</span> <span class='ocrx_word' id='word_1_3' title='bbox 679 239 931 294; x_wconf 76' lang='lat' dir='ltr'><strong>Botanik</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 974 238 1136 295; x_wconf 79' lang='lat' dir='ltr'>Band</span> <span class='ocrx_word' id='word_1_5' title='bbox 1180 237 1234 294; x_wconf 91' lang='lat'>5.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1278 239 1382 294; x_wconf 80' lang='lat' dir='ltr'>Nzo</span> <span class='ocrx_word' id='word_1_7' title='bbox 1423 237 1479 293; x_wconf 88' lang='grc'>9.</span> <span class='ocrx_word' id='word_1_8' title='bbox 2375 234 2520 292; x_wconf 78' lang='lat' dir='ltr'>Tafl.</span> <span class='ocrx_word' id='word_1_9' title='bbox 2559 236 2645 291; x_wconf 87' lang='grc'>14.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3039 3101 3041 4923">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3039 3101 3041 4923">
+     <span class='ocr_line' id='line_1_2' title="bbox 3039 3101 3041 4923; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 3039 3101 3041 4923; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
